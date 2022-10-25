@@ -3,7 +3,7 @@ Hi, My Name is Jonel E. Capa.
 Graduated with a degree in BS Industrial Technology majoring in Electronics from Marikina Polytechnic College.
 Currently employed at Fiberhome Phils., Inc. as Operation Staff.
 
-My hobbies include playing mobile games, cooking, walking, and troubleshooting computers/laptops.
+My hobbies is playing mobile games, cooking, walking, and troubleshooting computers/laptops.
 
 My goal for this year is to learn a lot in the web development course.
 

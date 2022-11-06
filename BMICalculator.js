@@ -13,5 +13,14 @@ function BMIStatus(BMI){
         console.log("Obese 😱");
     }
 }
-console.log(computedBMI(76,1.73))
+function testBMICalculator(){
+    const result=computedBMI(75,1.73);
+    const expected=25.05930702662969;
+    
+    console.assert(
+        result===expected,
+        `The result ${result} is match the expected value ${expected}`
+    )
+}
+console.log(computedBMI(75,1.73))
 BMIStatus(25)

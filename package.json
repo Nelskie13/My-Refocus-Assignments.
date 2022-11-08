@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-bmi-calculator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "BMICalculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelskie13/My-Refocus-Assignments..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelskie13/My-Refocus-Assignments./issues"
+  },
+  "homepage": "https://github.com/Nelskie13/My-Refocus-Assignments.#readme",
+  "dependencies": {
+    "jest": "^29.3.0"
+  }
+}
